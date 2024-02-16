@@ -1,4 +1,4 @@
-package main.java.insper.store.account;
+package insper.store.account;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;

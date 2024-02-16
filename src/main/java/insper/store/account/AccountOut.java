@@ -1,4 +1,4 @@
-package main.java.insper.store.account;
+package insper.store.account;
 
 
 import lombok.Builder;
