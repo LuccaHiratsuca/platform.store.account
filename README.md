@@ -1,1 +1,1 @@
-# platform.store.account
+# platform.tech-emporium.account
